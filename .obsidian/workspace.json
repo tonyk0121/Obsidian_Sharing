@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f58041bbc6f9a659",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2532e355420fd810",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e07196d4b55229a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e6efe115fef1a31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59240130a6092321",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cb54e62c9f201dea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9a27e6dc358c331c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5085258483887
+  },
+  "right": {
+    "id": "4f1078b1a07c883b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2794da71935e8087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fff7cf157e73f102",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e4c598ce771bcac2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4aaef80244299630",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "75f88b4606dc5ba5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6f64197cfca3f0ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "2532e355420fd810",
+  "lastOpenFiles": [
+    "Annotator 플러그인 사용법.md",
+    "주간 노트 사용법.md",
+    "일일 노트 사용법.md",
+    "Show Case.md",
+    "Welcome.md",
+    "나의 추천 플러그인.md",
+    "옵시디언 소개 영상.md",
+    "윈도우에서 옵시디언, 조테로, 판독을 이용한 스마트한 논문쓰기 및 관리 워크플로우! - 대학원생 논문 관리법, 조테로 태그 이용법, 옵시디언 논문 초안작성하기.md",
+    "옵시디언 사용법.md",
+    "미리 설정한 세팅사항.md",
+    "Obsidian_Sharing/README.md",
+    "Obsidian/Daily note/25-02-24-Monday.md",
+    "Obsidian/Weekly note/2025-W09.md",
+    "Attatchment/Annotation 노트/Autonomous driving system - A comprehensive survey.md",
+    "Attatchment/Images/Pasted image 20250227230109.png",
+    "Obsidian/Daily note/25-02-20-Thursday.md",
+    "Inbox/Untitled.md",
+    "Obsidian/Daily note/25-02-27-Thursday.md",
+    "Attatchment/Images/Pasted image 20250227225207.png",
+    "Attatchment/Images/Pasted image 20250227225046.png",
+    "Obsidian/Daily note/25-02-26-Wednesday.md",
+    "Obsidian/Daily note/25-02-25-Tuesday.md",
+    "Attatchment/Images/Pasted image 20250227224723.png",
+    "Attatchment/Images/Pasted image 20250227223906.png",
+    "Attatchment/Images/Pasted image 20250227223827.png",
+    "Attatchment/Images/Pasted image 20250227223528.png",
+    "Attatchment/Images/Pasted image 20250227223239.png",
+    "Attatchment/Images/Pasted image 20250227222718.png",
+    "Attatchment/Images/Pasted image 20250227222713.png",
+    "Obsidian/Template/Weekly Note Template.md",
+    "Obsidian/Template/Temporary Note Template.md",
+    "Obsidian/Template/Empty Template.md",
+    "Obsidian/Template/Daily Note Template.md",
+    "Obsidian/Template/PDF Annotator Template.md",
+    "Dataview.md",
+    "Attatchment/PDF 자료/Autonomous driving system - A comprehensive survey.pdf",
+    "Untitled.md",
+    "Attatchment/Images",
+    "survAutonomous driving system - A comprehensive ey.pdf",
+    "Attatchment/Annotation 노트",
+    "Attatchment/PDF 자료",
+    "Attatchment/Literature",
+    "Attatchment",
+    "Inbox",
+    "Obsidian/Weekly note",
+    "Obsidian/Daily note"
+  ]
+}

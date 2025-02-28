@@ -1,0 +1,40 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Note4",
+      "path": "Note4.md"
+    },
+    {
+      "basename": "Note3",
+      "path": "Note3.md"
+    },
+    {
+      "basename": "Note 2",
+      "path": "Note 2.md"
+    },
+    {
+      "basename": "Note 1",
+      "path": "Note 1.md"
+    },
+    {
+      "basename": "Show Case",
+      "path": "Show Case.md"
+    },
+    {
+      "basename": "Welcome",
+      "path": "Welcome.md"
+    },
+    {
+      "basename": "Zotero Template",
+      "path": "Zotero Template.md"
+    },
+    {
+      "basename": "Zotero - Making Custom Tags",
+      "path": "Zotero - Making Custom Tags.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

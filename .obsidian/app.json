@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Attatchment/Images",
+  "userIgnoreFilters": [
+    "Obsidian/Daily note/",
+    "Obsidian/Weekly note/",
+    "Obsidian/Template/"
+  ],
+  "showUnsupportedFiles": false,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "newLinkFormat": "shortest"
+}
